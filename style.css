@@ -10,12 +10,14 @@
     background-color: #38BDF8;
 }
 .image_title{
-    padding-bottom: 20px;
+    padding-top: 20px;
 }
 .image_title_heading{
     
-    border: solid 1px black;
+    /* border: solid 1px black; */
+    text-align: center;
+    font-family: cursive;
 }
 .image_vectors{
-    padding-top: 50px;
+    padding-top: 20px;
 }
