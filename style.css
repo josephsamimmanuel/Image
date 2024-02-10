@@ -10,18 +10,3 @@
     align-items: center;
     background-color: #38BDF8;
 }
-.image_title{
-    padding-top: 20px;
-}
-.image_title_heading{
-    
-    /* border: solid 1px black; */
-    text-align: center;
-    font-family: cursive;
-}
-.image_vectors{
-    padding-top: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
