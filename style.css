@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+.image{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #38BDF8;
+}
+.image_title{
+    padding-bottom: 20px;
+}
+.image_title_heading{
+    
+    border: solid 1px black;
+}
+.image_vectors{
+    padding-top: 50px;
+}
